@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="play">PLAY</string>
+    <string name="title_activity_continue_screen">ContinueScreen</string>
+    <string name="title_activity_continue_main2">ContinueActivityMainActivity2</string>
+    <string name="title_activity_continue_activity.xml">continue_activity.xml</string>
+</resources>
